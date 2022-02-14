@@ -1,0 +1,97 @@
+@import "../../../../../Assets/Styles/index.scss";
+
+.five {
+    background: url('../../../../../Assets/Images/banner-05-new.png');
+    background-size: cover;
+    background-position: bottom;
+    font-size: 19.5px;
+    height: 100%;
+
+    &-container {
+      width: 80%;
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    &-link {
+      position: absolute;
+      width: 390px;
+      bottom: 180px;
+      left: -10px;
+
+      &-item:nth-child(2) {
+        margin: 65px 0;
+      }
+
+      &-title {
+        font-size: 39.5px;
+        color: $white;
+        transform: translateX(300px);
+        opacity: 0;
+      }
+
+      &-email {
+        margin-top: 18px;
+        width: 300px;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 2%;
+        height: 40px;
+        line-height: 40px;
+        transition: 0.5s ease-out;
+        transition: 0.3s;
+        transform: translateY(-50px);
+        opacity: 0;
+
+        .email-icon {
+          opacity: 0;
+          font-size: 25px;
+          color: black;
+        }
+
+        p {
+          color: $white;
+        }
+
+        &:hover {
+          background-color: $white;
+          .email-icon {
+            opacity: 1;
+          }
+          p {
+            color: black;
+          }
+        }
+      }
+
+      &-text {
+        margin-left: 8px;
+        display: block;
+        color: $white;
+        margin-top: 19px;
+        &:hover{
+          color: $white;
+        }
+        transform: translateX(200px);
+        opacity: 0;
+      }
+    }
+
+    @include large {
+      &-link {
+        width: 90%;
+        bottom: 50%;
+        transform: translateY(50%);
+        &-title {
+          font-size: 20px;
+        }
+      }
+    }
+
+    @include mobile {
+      &-link {
+        left: -30px;
+      }
+    }
+  }

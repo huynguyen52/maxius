@@ -1,0 +1,134 @@
+{
+    "s1-text1": "Maxius is a company that develops its own system semiconductors and manufactures and sells computers for high-performance servers. We supply equipment and solutions to clients in various cutting edge fields.",
+    "s1-text2": "Together, we will be the best in value and speed.",
+    "s2-text": " 1. <span>Self - produced</span> device manufacturer.2. Production and Sales of <span>H</span>igh- <span>P</span>erformance<span> S</span>ervers with self - manufactured system device.3.Construction of operative <span>Block chain IDC</span> based on HPS.4. Establish solution relating to Blockchain <span>IPFS</span></h4>",
+    "adress": "411-A, IT-belly, 40, Imi-ro, Uiwang-si, Gyeonggi-do, Republic of Korea",
+    "intrduceData": [
+        {
+            "content": "Maxius is the only self-developed semiconductor company who builds servers with high technology. As we provides solutions specialized for intelligent data centers and the IT industry, we will develop into a growing company in global market."
+        },
+        {
+            "content": "Maxius is the only self-developed semiconductor company who builds servers with high technology. As we provides solutions specialized for intelligent data centers and the IT industry, we will develop into a growing company in global market."
+        },
+        {
+            "content": "Maxius is the only self-developed semiconductor company who builds servers with high technology. As we provides solutions specialized for intelligent data centers and the IT industry, we will develop into a growing company in global market."
+        },
+        {
+            "content": "Maxius is the only self-developed semiconductor company who builds servers with high technology. As we provides solutions specialized for intelligent data centers and the IT industry, we will develop into a growing company in global market."
+        }
+    ],
+    "storyData": [
+        {
+            "listItem": [
+                {
+                  "name": "2021",
+                  "desc": "Changed the company name to Maxius"
+                },
+                {
+                  "name": "2020",
+                  "desc": "Second construction of an artificial intelligence- based adaptive security system"
+                },
+                {
+                  "name": "2019",
+                  "desc": "Development of Genome Analysis System Semiconductor and High Performance Storage"
+                },
+                {
+                  "name": "2018",
+                  "desc": "Development of Genome Analysis System Semiconductor and High Performance Storage"
+                },
+                {
+                  "name": "2017",
+                  "desc": "Development of Genome Analysis System Semiconductor and High Performance Storage"
+                },
+                {
+                  "name": "2016",
+                  "desc": "Development of Genome Analysis System Semiconductor and High Performance Storage"
+                },
+                {
+                  "name": "2015",
+                  "desc": "Changed the company name to Maxius"
+                },
+                {
+                  "name": "2010",
+                  "desc": "Changed the company name to Maxius"
+                },
+                {
+                  "name": "1996",
+                  "desc": "Changed the company name to Maxius"
+                }
+            ]
+        },
+        {
+            "listItem": [
+                {
+                  "name": "120 corporate partners",
+                  "desc": "Corporation"
+                },
+                {
+                  "name": "350 additional corporate partners",
+                  "desc": " General public"
+                },
+                {
+                  "name": "165 additional corporate partners",
+                  "desc": "National defense"
+                },
+                {
+                  "name": "120 corporate partners",
+                  "desc": "Corporation"
+                },
+                {
+                  "name": "120 corporate partners",
+                  "desc": "Corporation"
+                },
+                {
+                  "name": "120 corporate partners",
+                  "desc": "Corporation"
+                }
+            ]
+        },
+        {
+            "listItem": [
+                {
+                  "name": "Patent for security system",
+                  "desc": "First establishment of an artificial intelligence- based adaptive security system"
+                },
+                {
+                  "name": "Patent for system semiconductor",
+                  "desc": "Development of small computers using high- performance system semiconductors"
+                },
+                {
+                  "name": "Patent certified by TPC",
+                  "desc": "National defense"
+                },
+                {
+                  "name": "120 corporate partners",
+                  "desc": "International TPC certification"
+                }
+            ]
+        },
+        {
+            "listItem": [
+                {
+                  "name": "KR Sejong the Great Award",
+                  "desc": "The best performance and energy-saving technology"
+                },
+                {
+                  "name": "KR Excellent Product Certificate",
+                  "desc": "Certification of excellent products in the field of high-performance system quality servers"
+                },
+                {
+                  "name": "KR Green Technology Certificate",
+                  "desc": "Environmentally friendly with highest perfor- mance and maximum efficiency"
+                },
+                {
+                  "name": "KR Green Technology Certificate",
+                  "desc": "Environmentally friendly with highest perfor- mance and maximum efficiency"
+                },
+                {
+                  "name": "KR Green Technology Certificate",
+                  "desc": "Environmentally friendly with highest perfor- mance and maximum efficiency"
+                }
+            ]
+        }
+    ]
+}

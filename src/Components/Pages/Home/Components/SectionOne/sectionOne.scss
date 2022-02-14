@@ -1,0 +1,56 @@
+@import "../../../../../Assets/Styles/index.scss";
+
+.one {
+    background-color: #161616;
+    background: url('../../../../../Assets/Images/banner-01-kr.png') no-repeat top/cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100%;
+    &-container {
+      margin-left: 9%;
+    }
+    &-title {
+      font-size: 95.5px;
+      font-weight: bold;
+      color: #1a2a59;
+      transition: all 0.2s ease;
+    }
+    &-text {
+      font-size: 20.5px;
+      color: #222222;
+      width: 500px;
+    }
+    .one-title + .one-text {
+      margin-top: 40px;
+    }
+    .one-text + .one-text {
+      margin-top: 100px;
+    }
+    @media screen and (max-width: 1024px) {
+      background-position: left;
+      &-title {
+        font-size: 80px;
+      }
+      &-text {
+        font-size: 18px;
+        width: 85%;
+      }
+    }
+    @media screen and (max-width: 768px) {
+      &-title {
+        font-size: 68px;
+      }
+      &-text {
+        font-size: 16px;
+      }
+    }
+    @media screen and (max-width: 568px) {
+      &-title {
+        font-size: 50px;
+      }
+      &-text {
+        font-size: 14px;
+      }
+    }
+  }
